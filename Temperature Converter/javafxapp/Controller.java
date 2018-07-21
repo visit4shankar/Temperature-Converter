@@ -59,7 +59,7 @@ public class Controller implements Initializable {
 		} catch (Exception exception) {
 			warnUser();
 			return;
-			// no code executed...
+			// no code executed..
 		}
 
 		float newTemperature = 0.0f;
